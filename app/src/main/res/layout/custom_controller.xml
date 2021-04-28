@@ -14,7 +14,7 @@
             android:id="@+id/exo_rew"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="16dp"
+            android:layout_marginEnd="18dp"
             android:src="@drawable/ic_replay"/>
         <ImageView
             android:id="@+id/exo_play"
